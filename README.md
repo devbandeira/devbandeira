@@ -1,4 +1,4 @@
-## Olá eu sou o Alexander Bandeira 👋
+## Olá, sou o Alexander Bandeira 👋
 
 🎓 -> Sou formando em Engenharia de Agrimensura e Cartografica pela UFRRJ.<br>
 📚 -> Sou aluno da Digital House no curso Certified Tech Developer.<br>
