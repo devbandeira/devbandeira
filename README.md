@@ -40,6 +40,6 @@
   <a href="https://www.linkedin.com/in/alexander-bandeira-5134811b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
-  ![Snake animation](https://github.com/devbandeira/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/devbandeira/devbandeira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
