@@ -1,5 +1,11 @@
 ## Olá eu sou o Alexander Bandeira 👋
 
+🎓 -> Sou formando em Engenharia de Agrimensura e Cartografica pela UFRRJ.<br>
+📚 -> Sou aluno da Digital House no curso Certified Tech Developer.<br>
+🚀 -> Amo estudar tecnologias.<br>
+📝 -> Estou me aprimorando nas linguagem listadas abaixo.<br>
+🍀 -> Busco oportunidades como desenvolvedor Júnior.<br>
+
 <div align="center" style="display: inline_block">
   <a href="https://github.com/devbandeira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devbandeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
